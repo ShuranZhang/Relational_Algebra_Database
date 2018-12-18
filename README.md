@@ -3,6 +3,10 @@ CSC 173 PROJECT 4 WRITE-UP
 Author: BOYU ZHANG (bzhang25)
 Collaborators: SHURAN ZHANG (szhang73), ZIYI YOU (zyou5)
 
+To Build and Run:
+   make clean
+   make
+   ./main
 
 Part 1
 
